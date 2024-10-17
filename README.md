@@ -1,8 +1,8 @@
 ### Welcome to my GitHub
 
-- I’m the Product Lead at [@amazee.io](github.com/amazeeio) - formerly Tech Lead at [@GovCMS](github.com/govcms) and [@data.gov.au](github.com/datagovau)
+- I’m the Director, Product Engineering for Lagoon at [@amazee.io](github.com/amazeeio) - formerly Tech Lead at [@GovCMS](github.com/govcms) and [@data.gov.au](github.com/datagovau)
 
-- We're currently working on building the world's most amazing fully Open Source container build, deploy and host platform [@Lagoon](github.com/amazeeio/lagoon) - check it out!
+- We're currently working on building the world's most amazing fully Open Source container build, deploy and host platform [@Lagoon](github.com/uselagoon) - check it out!
 
 - We're working with a number of awesome equally open source partners and from time to time I'll make sure to give some of my time back to them!
 
