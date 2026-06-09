@@ -10,9 +10,10 @@
   - [TerriaJS](github.com/TerriaJS/terriajs)
   - [magda](github.com/magda-io/magda)
 
-- I've also worked extensively on some large enterprise & government-scale Open Source projects:
+- I've also worked extensively on, and contritued to some large enterprise & government-scale Open Source projects:
   - [Lagoon](github.com/uselagoon)
   - [Drupal](github.com/drupal)
+  - [The Pygmy Stack](github.com/pygmystack)
 
 - When I'm not stuck in front of a screen, I like to get out and about - walking our 🐕, running 🏃‍♂️ or ~~riding~~ falling off bicycles 🚴
 
